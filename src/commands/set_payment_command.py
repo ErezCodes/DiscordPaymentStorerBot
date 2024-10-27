@@ -3,7 +3,7 @@ import discord
 from discord import app_commands
 from datetime import datetime
 import pytz
-from roobetDiscordBot.src.rate_limiter import process_request_with_retry, is_on_cooldown, update_cooldown
+from src.rate_limiter import process_request_with_retry, is_on_cooldown, update_cooldown
 
 async def register_set_payment_command(bot, sheet):
     # Retrieve payment options from the first row of the spreadsheet (excluding columns A and B)
