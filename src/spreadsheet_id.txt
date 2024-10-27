@@ -1,0 +1,4 @@
+paste the spreadsheet's id here
+for example: 1GS_Pl7J02JhPOVH752J0Ld2-AeTVaOJN0SuNBEFGEKc
+to find your spreadsheet's id, look at the spreadsheet's url and copy the part after the /d/.../
+https://docs.google.com/spreadsheets/d/1GS_Pl7J02JhPOVH752J0Ld2-AeTVaOJN0SuNBEFGEKc/edit?gid=0#gid=0
